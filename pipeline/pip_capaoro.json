@@ -13,8 +13,9 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
+				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/brisstt121@gmail.com/(Clone) Capa_Plata A Capa_Oro"
+					"notebookPath": "/Users/brisstt121@gmail.com/Capa_Plata A Capa_Oro"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
