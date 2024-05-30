@@ -1,0 +1,9 @@
+{
+	"name": "conzafactoriadatos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f6ca2fe3-7af6-41ea-8c32-863564b48b0d",
+		"tenantId": "97bf111b-0017-431d-b4fc-f67d39c110e9"
+	}
+}
